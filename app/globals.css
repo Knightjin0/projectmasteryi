@@ -1,0 +1,60 @@
+.navbar{
+  display: flex;
+  padding: 10px;
+  background-color: black;
+}
+
+p{
+  padding: 10px;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+}
+
+body{
+  margin: 0px;
+  background-color: grey;
+}
+
+.list{
+  background-color: black;
+}
+
+.list-item{
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.detail{
+  background-color: black;
+}
+
+.detail-item{
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.input{
+  background-color: black;
+}
+
+.input-item{
+  background-color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.btn{
+  font-size: 20px;
+  margin-left: 10px;
+}
